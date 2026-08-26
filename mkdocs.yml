@@ -1,0 +1,104 @@
+site_name: Missões da Inventora
+site_description: Curso prático de Computação e Programação para crianças
+site_url: https://f4bio89.github.io/curso-programacao-criancas/
+repo_url: https://github.com/f4bio89/curso-programacao-criancas
+repo_name: f4bio89/curso-programacao-criancas
+edit_uri: edit/main/
+docs_dir: docs
+site_dir: site
+strict: true
+exclude_docs: |
+  .git/**
+  .venv-docs/**
+  site/**
+  tests/**
+  gerar_*.py
+  .github/**
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Usar tema escuro
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Usar tema claro
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - tables
+nav:
+  - Início: README.md
+  - 🚀 Portal interativo: portal/index.html
+  - Para o professor:
+      - Guia geral: GUIA_DO_PROFESSOR.md
+      - Progresso: PROGRESSO.md
+      - Preparar Pop!_OS: setup/instalar_ferramentas.md
+      - Verificar ambiente: setup/verificar_ambiente.md
+  - Missões:
+      - '01 — Domine seu Computador': missao_01/missao.md
+      - '02 — Detetive da Internet': missao_02/missao.md
+      - '03 — Organize sua Base Secreta': missao_03/missao.md
+      - '04 — Programe um Robô Humano': missao_04/missao.md
+      - '05 — O Poder da Repetição': missao_05/missao.md
+      - '06 — A Porta do Dragão': missao_06/missao.md
+      - '07 — Dê Vida ao Gato': missao_07/missao.md
+      - '08 — Resgate Espacial': missao_08/missao.md
+      - '09 — Tesouro que Conta Pontos': missao_09/missao.md
+      - '10 — Fuga do Meteoro': missao_10/missao.md
+      - '11 — Estúdio de Jogos': missao_11/missao.md
+      - '12 — Olá, Python!': missao_12/missao.md
+      - '13 — O Quiz Conversador': missao_13/missao.md
+      - '14 — Criador de Super-Heróis': missao_14/missao.md
+      - '15 — Cofre dos Números': missao_15/missao.md
+      - '16 — Dado das Aventuras': missao_16/missao.md
+      - '17 — Aventura das Escolhas': missao_17/missao.md
+      - '18 — A Fábrica de Repetições': missao_18/missao.md
+      - '19 — Pedra, Papel, Tesoura Turbo': missao_19/missao.md
+      - '20 — Bola 8 Mágica Gentil': missao_20/missao.md
+      - '21 — Laboratório de Histórias': missao_21/missao.md
+      - '22 — Chatbot da Base Secreta': missao_22/missao.md
+      - '23 — Oficina da Inventora': missao_23/missao.md
+      - '24 — Grande Estreia': missao_24/missao.md
+  - Guias de cada missão:
+      - '01 — Professor': missao_01/guia_professor.md
+      - '02 — Professor': missao_02/guia_professor.md
+      - '03 — Professor': missao_03/guia_professor.md
+      - '04 — Professor': missao_04/guia_professor.md
+      - '05 — Professor': missao_05/guia_professor.md
+      - '06 — Professor': missao_06/guia_professor.md
+      - '07 — Professor': missao_07/guia_professor.md
+      - '08 — Professor': missao_08/guia_professor.md
+      - '09 — Professor': missao_09/guia_professor.md
+      - '10 — Professor': missao_10/guia_professor.md
+      - '11 — Professor': missao_11/guia_professor.md
+      - '12 — Professor': missao_12/guia_professor.md
+      - '13 — Professor': missao_13/guia_professor.md
+      - '14 — Professor': missao_14/guia_professor.md
+      - '15 — Professor': missao_15/guia_professor.md
+      - '16 — Professor': missao_16/guia_professor.md
+      - '17 — Professor': missao_17/guia_professor.md
+      - '18 — Professor': missao_18/guia_professor.md
+      - '19 — Professor': missao_19/guia_professor.md
+      - '20 — Professor': missao_20/guia_professor.md
+      - '21 — Professor': missao_21/guia_professor.md
+      - '22 — Professor': missao_22/guia_professor.md
+      - '23 — Professor': missao_23/guia_professor.md
+      - '24 — Professor': missao_24/guia_professor.md

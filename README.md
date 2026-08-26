@@ -12,9 +12,9 @@ Um curso doméstico de **24 missões práticas**, criado para uma criança de ap
 
 ## Versão interativa para Elisa
 
-A pasta `docs/` contém uma aplicação HTML estática, sem dependências e apropriada para abrir no navegador. Ela tem mapa das 24 missões, filtros por fase, checklists, dicas reveláveis, anotações e progresso local no navegador. Para publicar pelo GitHub Pages: no repositório GitHub, abra **Settings → Pages**, selecione **Deploy from a branch**, branch **main** e pasta **/docs**, depois salve. A página ficará disponível no endereço informado pelo GitHub.
+A pasta `docs/` contém as fontes do site e lê os Markdown do curso por links simbólicos: o conteúdo continua com **uma fonte única**. O workflow `.github/workflows/publicar-site.yml` reconstrói o site automaticamente a cada `git push`. Para ativar pela primeira vez no GitHub, abra **Settings → Pages**, em **Build and deployment** escolha **GitHub Actions** e salve. Depois disso, qualquer edição feita diretamente no GitHub (botão de lápis em um `.md`) e confirmada em `main` atualiza o site automaticamente.
 
-> O progresso é guardado somente no navegador usado pela criança (`localStorage`); não envia informações para nenhum serviço. Os desafios Python continuam sendo feitos no Thonny e os projetos Scratch no Scratch, acessados pelos links de cada missão.
+> O portal infantil fica em `docs/portal/index.html`. Suas marcações e notas ficam somente no navegador usado pela criança (`localStorage`); não envia informações para nenhum serviço. Os desafios Python continuam sendo feitos no Thonny e os projetos Scratch no Scratch, acessados pelos links de cada missão.
 
 ## Filosofia: explorar → descobrir → criar → errar → corrigir → modificar → explicar
 
