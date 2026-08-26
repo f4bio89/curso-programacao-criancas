@@ -1,0 +1,8 @@
+nome = input("Nome de heroína/herói: ")
+poder = input("Poder especial: ")
+base = input("Onde fica sua base secreta? ")
+print("\n=== FICHA DE SUPER-HERÓI ===")
+print("Nome: " + nome)
+print("Poder: " + poder)
+print("Base: " + base)
+print(nome + " usa " + poder + " para ajudar pessoas!")

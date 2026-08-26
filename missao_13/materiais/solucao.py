@@ -1,0 +1,7 @@
+print("=== QUIZ CONVERSADOR ===")
+nome = input("Qual é o seu nome? ")
+cor = input("Qual cor combina com você? ")
+animal = input("Qual animal seria seu ajudante? ")
+print("\nResultado:")
+print(nome + ", você seria uma heroína " + cor + ".")
+print("Seu ajudante seria um(a) " + animal + " incrível!")

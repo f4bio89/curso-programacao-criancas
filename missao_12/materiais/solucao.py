@@ -1,0 +1,4 @@
+print("Olá! Eu sou uma programadora em treinamento!")
+print("Minha heroína se chama Lua Veloz.")
+print("Ela protege a cidade dos bugs.")
+print("Seu poder é fazer perguntas inteligentes!")
