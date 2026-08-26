@@ -15,6 +15,7 @@ Abra a pasta `missao_21` antes da criança chegar. Abra Thonny e deixe o arquivo
 ## Materiais
 - `missao.md` para a criança.
 - Pasta `materiais/` desta missão.
+- `materiais/ia_com_ajudante.md`: atividade opcional, supervisionada, depois da primeira versão criada pela criança. Não inserir dados pessoais e não pedir código pronto.
 - Computador controlado pela criança e papel/lápis quando ajudar.
 
 ## Roteiro minuto a minuto (40 min)

@@ -15,6 +15,7 @@ Abra a pasta `missao_18` antes da criança chegar. Abra Thonny e deixe o arquivo
 ## Materiais
 - `missao.md` para a criança.
 - Pasta `materiais/` desta missão.
+- `materiais/terminal_seguro.md` é uma atividade opcional de 5–8 minutos **depois** do programa Python; o adulto fica ao lado e a criança digita apenas os comandos listados.
 - Computador controlado pela criança e papel/lápis quando ajudar.
 
 ## Roteiro minuto a minuto (40 min)
