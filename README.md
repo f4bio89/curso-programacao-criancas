@@ -10,6 +10,12 @@ Um curso doméstico de **24 missões práticas**, criado para uma criança de ap
 - Marque habilidades em `PROGRESSO.md` e conquistas quando forem merecidas.
 - Cada missão deixa algo para mostrar: arquivo, jogo, história, mapa, desenho ou explicação.
 
+## Versão interativa para Elisa
+
+A pasta `docs/` contém uma aplicação HTML estática, sem dependências e apropriada para abrir no navegador. Ela tem mapa das 24 missões, filtros por fase, checklists, dicas reveláveis, anotações e progresso local no navegador. Para publicar pelo GitHub Pages: no repositório GitHub, abra **Settings → Pages**, selecione **Deploy from a branch**, branch **main** e pasta **/docs**, depois salve. A página ficará disponível no endereço informado pelo GitHub.
+
+> O progresso é guardado somente no navegador usado pela criança (`localStorage`); não envia informações para nenhum serviço. Os desafios Python continuam sendo feitos no Thonny e os projetos Scratch no Scratch, acessados pelos links de cada missão.
+
 ## Filosofia: explorar → descobrir → criar → errar → corrigir → modificar → explicar
 
 Bugs são pistas, não fracassos. Não diga “você fez errado”; diga **“encontramos um bug; o que ele está nos contando?”**. A explicação vem depois da necessidade: primeiro aparece um problema interessante; então a criança descobre a ferramenta para resolvê-lo.
