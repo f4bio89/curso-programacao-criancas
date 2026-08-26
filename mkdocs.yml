@@ -14,6 +14,7 @@ exclude_docs: |
   tests/**
   gerar_*.py
   .github/**
+  README.md
 theme:
   name: material
   language: pt-BR
@@ -45,7 +46,6 @@ markdown_extensions:
       anchor_linenums: true
   - tables
 nav:
-  - Início: README.md
   - 🚀 Portal interativo: portal/index.html
   - Para o professor:
       - Guia geral: GUIA_DO_PROFESSOR.md
