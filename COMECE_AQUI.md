@@ -9,16 +9,17 @@ Não é uma escola com provas. É uma aventura prática: **pensar → testar →
 1. Abra o [Portal Code Aventura](https://f4bio89.github.io/curso-programacao-criancas/portal/).
 2. Clique em **Continuar Aventura**. A plataforma mostra a próxima missão.
 3. Abra uma etapa por vez. Não precisa fazer tudo de uma vez.
-4. Marque uma etapa quando terminar. O portal salva o progresso neste navegador.
-5. Se travar, peça uma **Dica do Lumi**. Primeiro tente prever o que vai acontecer.
-6. Ao terminar, conte para alguém o que criou e qual bug investigou.
+4. Na primeira vez, crie um perfil local com um apelido. Ele mantém a sua aventura separada de outras pessoas que usam o mesmo computador.
+5. Marque uma etapa quando terminar. O portal salva o progresso no perfil deste navegador.
+6. Se travar, peça uma **Dica do Lumi**. Primeiro tente prever o que vai acontecer.
+7. Ao terminar, conte para alguém o que criou e qual bug investigou.
 
 ## Para o adulto
 
 - Faça **2 missões por semana** como ritmo recomendado.
 - Reserve **35–45 minutos** por missão.
 - Se houver cansaço ou frustração, pare na próxima ação pequena e volte outro dia.
-- Leia antes o `guia_professor.md` daquela missão; entregue à criança apenas o `missao.md` ou o portal.
+- Abra antes a **Área do Professor** no portal e escolha **Abrir guia completo**. O guia da missão é carregado sem sair do site; ele também existe como `guia_professor.md` no repositório.
 - Na aula, a criança controla teclado e mouse. O adulto oferece perguntas e pistas, não a resposta pronta.
 
 ## O que acontece em cada fase
@@ -34,10 +35,10 @@ Não é uma escola com provas. É uma aventura prática: **pensar → testar →
 
 ## Como funciona o progresso
 
-- O portal usa o armazenamento local do navegador (`localStorage`). Nada é enviado para a internet.
-- O avanço aparece em **Minha Jornada**, **Conquistas** e **Minha Mochila**.
-- Se abrir em outro navegador/computador, o progresso não acompanha automaticamente. Use `PROGRESSO.md` como registro familiar de habilidades.
-- As medalhas são conquistadas por habilidades reais; não apenas por concluir páginas.
+- O portal usa perfis locais no armazenamento do navegador (`localStorage`). Nada é enviado para a internet.
+- Em **Meu Perfil**, é possível criar ou alternar entre aventureiras no mesmo computador.
+- Use **Exportar meu progresso** para criar um backup `.json`; no outro computador, use **Importar backup**. Não publique nem compartilhe esse arquivo com desconhecidos.
+- Se limpar os dados do site/navegador sem exportar, o progresso daquele navegador pode ser perdido.
 
 ## Ferramentas necessárias
 

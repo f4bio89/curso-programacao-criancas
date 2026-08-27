@@ -23,11 +23,28 @@ Um curso doméstico de **24 missões práticas** para crianças de aproximadamen
 - Marque habilidades em `PROGRESSO.md` e conquistas quando forem merecidas.
 - Cada missão deixa algo para mostrar: arquivo, jogo, história, mapa, desenho ou explicação.
 
-## Versão interativa para Elisa
+## Plataforma interativa e privacidade
 
-A pasta `docs/` contém o portal estático publicado pelo GitHub Pages. O curso e seus materiais continuam em Markdown no repositório; ao editar e confirmar um arquivo em `main`, o GitHub Pages atualiza o portal. O portal infantil usa `localStorage`, portanto missões concluídas, etapas, conquistas e mochila ficam salvos apenas no navegador usado pela criança.
+A pasta `docs/` contém o portal estático publicado pelo GitHub Pages. Não há backend, cadastro on-line, e-mail, senha ou coleta de dados.
 
-> Para alterações grandes na interface, edite `docs/portal/index.html`. Para alterar conteúdo pedagógico, edite os arquivos das pastas `missao_XX/`.
+| Recurso | Como funciona |
+|---|---|
+| **Dashboard** | Mostra a próxima missão, progresso, mapa da jornada e ações disponíveis. |
+| **Perfis locais** | Em **Meu Perfil**, crie e alterne entre aventureiras no mesmo navegador. Cada perfil mantém missões, etapas, conquistas e Mochila separadamente. |
+| **Backup** | Exporte o perfil em `.json` e importe-o em outro navegador/computador. Guarde esse arquivo em local privado; não publique no Git. |
+| **Progresso** | Fica no `localStorage` do navegador. Limpar dados do site apaga o avanço local que não tenha sido exportado. |
+| **Missões** | Têm etapas recolhíveis, dicas graduais do Lumi, pequenos simuladores e desafios de bug quando aplicável. |
+| **Área do Professor** | Carrega o `guia_professor.md` da missão atual dentro do portal, a partir da fonte Markdown no GitHub. |
+| **Conquistas e Mochila** | São liberadas por habilidades e avanço do perfil — não por pressa. |
+
+### Fonte do conteúdo e atualizações
+
+- As aulas, guias e materiais ficam em Markdown nas pastas `missao_XX/`.
+- O botão **Abrir guia completo** busca o `guia_professor.md` atual da missão diretamente do repositório e o exibe no portal. Uma alteração confirmada em `main` passa a aparecer na próxima abertura do guia, desde que haja conexão com a internet.
+- O workflow em `.github/workflows/publicar-site.yml` reconstrói e publica o site a cada push em `main`.
+- Para mudar a interface e os componentes do dashboard, edite `docs/portal/index.html`. Para alterar conteúdo pedagógico, edite os arquivos Markdown da missão correspondente.
+
+> Os desafios Python continuam sendo feitos no Thonny e os projetos Scratch no Scratch. O portal não finge executar Python no navegador.
 
 ## Filosofia: explorar → descobrir → criar → errar → corrigir → modificar → explicar
 
