@@ -1,6 +1,19 @@
-# 🚀 Curso de Computação e Programação: Missões da Inventora
+# 💡 Code Aventura — Computação e Programação para Crianças
 
-Um curso doméstico de **24 missões práticas**, criado para uma criança de aproximadamente 10 anos que começa do zero no Pop!_OS Linux. O objetivo não é decorar Python: é ganhar confiança, curiosidade, autonomia e prazer em criar.
+> **PENSE • DESCUBRA • CRIE**
+
+Um curso doméstico de **24 missões práticas** para crianças de aproximadamente 10 anos, começando do zero no Pop!_OS. O objetivo não é decorar Python: é ganhar confiança, curiosidade, autonomia e prazer em criar.
+
+## 🚀 Comece aqui
+
+- **Portal da criança:** https://f4bio89.github.io/curso-programacao-criancas/portal/
+- **Guia rápido para criança e adulto:** [`COMECE_AQUI.md`](COMECE_AQUI.md)
+- **Instalação/verificação no Pop!_OS:** [`setup/`](setup/)
+- **Guia detalhado de condução:** [`GUIA_DO_PROFESSOR.md`](GUIA_DO_PROFESSOR.md)
+
+### Ritmo recomendado
+
+**2 missões por semana**, com **35–45 minutos** por missão. Não transforme extras em obrigação. Pare enquanto ainda existe vontade de continuar e retome outro dia se houver cansaço.
 
 ## Como usar
 
@@ -12,9 +25,9 @@ Um curso doméstico de **24 missões práticas**, criado para uma criança de ap
 
 ## Versão interativa para Elisa
 
-A pasta `docs/` contém as fontes do site e lê os Markdown do curso por links simbólicos: o conteúdo continua com **uma fonte única**. O workflow `.github/workflows/publicar-site.yml` reconstrói o site automaticamente a cada `git push`. Para ativar pela primeira vez no GitHub, abra **Settings → Pages**, em **Build and deployment** escolha **GitHub Actions** e salve. Depois disso, qualquer edição feita diretamente no GitHub (botão de lápis em um `.md`) e confirmada em `main` atualiza o site automaticamente.
+A pasta `docs/` contém o portal estático publicado pelo GitHub Pages. O curso e seus materiais continuam em Markdown no repositório; ao editar e confirmar um arquivo em `main`, o GitHub Pages atualiza o portal. O portal infantil usa `localStorage`, portanto missões concluídas, etapas, conquistas e mochila ficam salvos apenas no navegador usado pela criança.
 
-> O portal infantil fica em `docs/portal/index.html`. Suas marcações e notas ficam somente no navegador usado pela criança (`localStorage`); não envia informações para nenhum serviço. Os desafios Python continuam sendo feitos no Thonny e os projetos Scratch no Scratch, acessados pelos links de cada missão.
+> Para alterações grandes na interface, edite `docs/portal/index.html`. Para alterar conteúdo pedagógico, edite os arquivos das pastas `missao_XX/`.
 
 ## Filosofia: explorar → descobrir → criar → errar → corrigir → modificar → explicar
 
