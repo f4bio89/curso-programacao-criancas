@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 23: Oficina da Inventora
 
 ## Objetivo
-A criança vai **planejamento, decomposição e protótipo** enquanto cria algo concreto: **escolher e começar um projeto próprio**.
+A criança vai aprender sobre **planejamento, decomposição e protótipo** enquanto cria algo concreto: **escolher e começar um projeto próprio**.
 
 ## Conceitos
 - Planejamento, decomposição e protótipo
@@ -27,7 +27,7 @@ Abra a pasta `missao_23` antes da criança chegar. Separe papel e lápis, se nec
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `projeto final: plano` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que planejar um projeto ajuda a dividir uma ideia em partes e testar uma primeira versão. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

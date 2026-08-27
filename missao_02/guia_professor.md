@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 02: Detetive da Internet
 
 ## Objetivo
-A criança vai **links, downloads, privacidade e mensagens estranhas** enquanto cria algo concreto: **resolver o caso de três mensagens misteriosas**.
+A criança vai aprender sobre **links, downloads, privacidade e mensagens estranhas** enquanto cria algo concreto: **resolver o caso de três mensagens misteriosas**.
 
 ## Conceitos
 - Links, downloads, privacidade e mensagens estranhas
@@ -27,7 +27,7 @@ Abra a pasta `missao_02` antes da criança chegar. Separe papel e lápis, se nec
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `segurança digital` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que segurança digital reúne cuidados para usar a internet com atenção e proteger informações pessoais. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

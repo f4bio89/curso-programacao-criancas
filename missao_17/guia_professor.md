@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 17: Aventura das Escolhas
 
 ## Objetivo
-A criança vai **decisões com vários caminhos** enquanto cria algo concreto: **história interativa com finais**.
+A criança vai aprender sobre **decisões com vários caminhos** enquanto cria algo concreto: **história interativa com finais**.
 
 ## Conceitos
 - Decisões com vários caminhos
@@ -18,7 +18,7 @@ Abra a pasta `missao_17` antes da criança chegar. Abra Thonny e deixe o arquivo
 - Computador controlado pela criança e papel/lápis quando ajudar.
 
 ## Roteiro minuto a minuto (40 min)
-- **0–5 min — Missão do dia:** apresente o problema: “Como podemos história interativa com finais sem eu fazer por você?”
+- **0–5 min — Missão do dia:** apresente o problema: “Como podemos criar uma história interativa com finais sem eu fazer por você?”
 - **5–10 min — Descoberta:** mostre somente o conceito necessário; use exemplo do cotidiano.
 - **10–25 min — Construção:** façam a primeira versão juntos. A criança clica, digita e testa.
 - **25–35 min — Desafio:** ela muda uma regra, nome, cor, resposta ou caminho sem copiar a solução.
@@ -27,7 +27,7 @@ Abra a pasta `missao_17` antes da criança chegar. Abra Thonny e deixe o arquivo
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `python: elif e else` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que em Python, `if`, `elif` e `else` permitem criar caminhos diferentes em uma história. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

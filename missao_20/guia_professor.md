@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 20: Bola 8 Mágica Gentil
 
 ## Objetivo
-A criança vai **funções simples e respostas aleatórias** enquanto cria algo concreto: **oráculo divertido que responde perguntas**.
+A criança vai aprender sobre **funções simples e respostas aleatórias** enquanto cria algo concreto: **oráculo divertido que responde perguntas**.
 
 ## Conceitos
 - Funções simples e respostas aleatórias
@@ -18,7 +18,7 @@ Abra a pasta `missao_20` antes da criança chegar. Abra Thonny e deixe o arquivo
 - Computador controlado pela criança e papel/lápis quando ajudar.
 
 ## Roteiro minuto a minuto (40 min)
-- **0–5 min — Missão do dia:** apresente o problema: “Como podemos oráculo divertido que responde perguntas sem eu fazer por você?”
+- **0–5 min — Missão do dia:** apresente o problema: “Como podemos criar um oráculo divertido que responde perguntas sem eu fazer por você?”
 - **5–10 min — Descoberta:** mostre somente o conceito necessário; use exemplo do cotidiano.
 - **10–25 min — Construção:** façam a primeira versão juntos. A criança clica, digita e testa.
 - **25–35 min — Desafio:** ela muda uma regra, nome, cor, resposta ou caminho sem copiar a solução.
@@ -27,7 +27,7 @@ Abra a pasta `missao_20` antes da criança chegar. Abra Thonny e deixe o arquivo
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `python: funções` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que em Python, funções ajudam a reunir comandos que realizam uma tarefa, como escolher uma resposta aleatória. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

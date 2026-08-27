@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 16: Dado das Aventuras
 
 ## Objetivo
-A criança vai **biblioteca, aleatoriedade e listas simples** enquanto cria algo concreto: **dado virtual com missões**.
+A criança vai aprender sobre **biblioteca, aleatoriedade e listas simples** enquanto cria algo concreto: **dado virtual com missões**.
 
 ## Conceitos
 - Biblioteca, aleatoriedade e listas simples
@@ -18,7 +18,7 @@ Abra a pasta `missao_16` antes da criança chegar. Abra Thonny e deixe o arquivo
 - Computador controlado pela criança e papel/lápis quando ajudar.
 
 ## Roteiro minuto a minuto (40 min)
-- **0–5 min — Missão do dia:** apresente o problema: “Como podemos dado virtual com missões sem eu fazer por você?”
+- **0–5 min — Missão do dia:** apresente o problema: “Como podemos criar um dado virtual com missões sem eu fazer por você?”
 - **5–10 min — Descoberta:** mostre somente o conceito necessário; use exemplo do cotidiano.
 - **10–25 min — Construção:** façam a primeira versão juntos. A criança clica, digita e testa.
 - **25–35 min — Desafio:** ela muda uma regra, nome, cor, resposta ou caminho sem copiar a solução.
@@ -27,7 +27,7 @@ Abra a pasta `missao_16` antes da criança chegar. Abra Thonny e deixe o arquivo
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `python: random` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que em Python, a biblioteca `random` permite fazer escolhas aleatórias, como simular um dado. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

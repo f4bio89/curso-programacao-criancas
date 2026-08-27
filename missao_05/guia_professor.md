@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 05: O Poder da Repetição
 
 ## Objetivo
-A criança vai **padrões, repetição e eficiência** enquanto cria algo concreto: **criar uma dança de robô com cartões de comando**.
+A criança vai aprender sobre **padrões, repetição e eficiência** enquanto cria algo concreto: **criar uma dança de robô com cartões de comando**.
 
 ## Conceitos
 - Padrões, repetição e eficiência
@@ -27,7 +27,7 @@ Abra a pasta `missao_05` antes da criança chegar. Separe papel e lápis, se nec
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `padrões e loops` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que padrões e loops ajudam a perceber e repetir uma mesma sequência de comandos. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 06: A Porta do Dragão
 
 ## Objetivo
-A criança vai **condições: se/então/senão** enquanto cria algo concreto: **escolher caminhos em um mapa de tesouro**.
+A criança vai aprender sobre **condições: se/então/senão** enquanto cria algo concreto: **escolher caminhos em um mapa de tesouro**.
 
 ## Conceitos
 - Condições: se/então/senão
@@ -27,7 +27,7 @@ Abra a pasta `missao_06` antes da criança chegar. Separe papel e lápis, se nec
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `decisões e lógica` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que decisões e lógica permitem escolher ações diferentes conforme uma condição seja verdadeira ou falsa. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

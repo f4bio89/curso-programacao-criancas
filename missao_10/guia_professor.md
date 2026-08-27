@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 10: Fuga do Meteoro
 
 ## Objetivo
-A criança vai **se, toque, parar e mensagens** enquanto cria algo concreto: **desviar de meteoros e registrar pontuação**.
+A criança vai aprender sobre **se, toque, parar e mensagens** enquanto cria algo concreto: **desviar de meteoros e registrar pontuação**.
 
 ## Conceitos
 - Se, toque, parar e mensagens
@@ -27,7 +27,7 @@ Abra a pasta `missao_10` antes da criança chegar. Abra Scratch no navegador e d
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `scratch: condições` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que no Scratch, as condições permitem que o programa tome decisões, por exemplo ao tocar em um objeto. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

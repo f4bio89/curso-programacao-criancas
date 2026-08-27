@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 08: Resgate Espacial
 
 ## Objetivo
-A criança vai **laços e animação** enquanto cria algo concreto: **nave que voa pelo espaço com estrelas**.
+A criança vai aprender sobre **laços e animação** enquanto cria algo concreto: **nave que voa pelo espaço com estrelas**.
 
 ## Conceitos
 - Laços e animação
@@ -18,7 +18,7 @@ Abra a pasta `missao_08` antes da criança chegar. Abra Scratch no navegador e d
 - Computador controlado pela criança e papel/lápis quando ajudar.
 
 ## Roteiro minuto a minuto (40 min)
-- **0–5 min — Missão do dia:** apresente o problema: “Como podemos nave que voa pelo espaço com estrelas sem eu fazer por você?”
+- **0–5 min — Missão do dia:** apresente o problema: “Como podemos criar uma nave que voa pelo espaço com estrelas sem eu fazer por você?”
 - **5–10 min — Descoberta:** mostre somente o conceito necessário; use exemplo do cotidiano.
 - **10–25 min — Construção:** façam a primeira versão juntos. A criança clica, digita e testa.
 - **25–35 min — Desafio:** ela muda uma regra, nome, cor, resposta ou caminho sem copiar a solução.
@@ -27,7 +27,7 @@ Abra a pasta `missao_08` antes da criança chegar. Abra Scratch no navegador e d
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `scratch: repetição` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que no Scratch, os blocos de repetição fazem uma ação acontecer várias vezes sem reescrever os mesmos comandos. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

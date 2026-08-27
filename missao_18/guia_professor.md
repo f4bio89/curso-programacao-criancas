@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 18: A Fábrica de Repetições
 
 ## Objetivo
-A criança vai **laços controlados e contador** enquanto cria algo concreto: **máquina que cria uma contagem regressiva**.
+A criança vai aprender sobre **laços controlados e contador** enquanto cria algo concreto: **máquina que cria uma contagem regressiva**.
 
 ## Conceitos
 - Laços controlados e contador
@@ -19,7 +19,7 @@ Abra a pasta `missao_18` antes da criança chegar. Abra Thonny e deixe o arquivo
 - Computador controlado pela criança e papel/lápis quando ajudar.
 
 ## Roteiro minuto a minuto (40 min)
-- **0–5 min — Missão do dia:** apresente o problema: “Como podemos máquina que cria uma contagem regressiva sem eu fazer por você?”
+- **0–5 min — Missão do dia:** apresente o problema: “Como podemos criar uma máquina que faz uma contagem regressiva sem eu fazer por você?”
 - **5–10 min — Descoberta:** mostre somente o conceito necessário; use exemplo do cotidiano.
 - **10–25 min — Construção:** façam a primeira versão juntos. A criança clica, digita e testa.
 - **25–35 min — Desafio:** ela muda uma regra, nome, cor, resposta ou caminho sem copiar a solução.
@@ -28,7 +28,7 @@ Abra a pasta `missao_18` antes da criança chegar. Abra Thonny e deixe o arquivo
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `python: for e while` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que em Python, os laços `for` e `while` repetem ações de forma controlada. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

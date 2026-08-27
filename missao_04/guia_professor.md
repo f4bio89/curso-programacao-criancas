@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 04: Programe um Robô Humano
 
 ## Objetivo
-A criança vai **instruções precisas, sequência e decomposição** enquanto cria algo concreto: **dar instruções para o pai preparar um sanduíche imaginário**.
+A criança vai aprender sobre **instruções precisas, sequência e decomposição** enquanto cria algo concreto: **dar instruções para o pai preparar um sanduíche imaginário**.
 
 ## Conceitos
 - Instruções precisas, sequência e decomposição
@@ -27,7 +27,7 @@ Abra a pasta `missao_04` antes da criança chegar. Separe papel e lápis, se nec
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `algoritmos` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que algoritmos são sequências de passos claros para realizar uma tarefa. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

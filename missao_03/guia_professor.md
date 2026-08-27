@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 03: Organize sua Base Secreta
 
 ## Objetivo
-A criança vai **pastas, nomes, salvar e encontrar arquivos** enquanto cria algo concreto: **montar a pasta base_secreta com três pistas**.
+A criança vai aprender sobre **pastas, nomes, salvar e encontrar arquivos** enquanto cria algo concreto: **montar a pasta base_secreta com três pistas**.
 
 ## Conceitos
 - Pastas, nomes, salvar e encontrar arquivos
@@ -27,7 +27,7 @@ Abra a pasta `missao_03` antes da criança chegar. Separe papel e lápis, se nec
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `arquivos e pastas` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que arquivos e pastas ajudam a guardar, nomear e encontrar o que foi criado no computador. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

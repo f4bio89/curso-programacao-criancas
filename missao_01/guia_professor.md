@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 01: Domine seu Computador
 
 ## Objetivo
-A criança vai **conhecer desktop, janelas, mouse e teclado** enquanto cria algo concreto: **criar um cartão “meu computador” em um editor de texto**.
+A criança vai **conhecer o desktop, as janelas, o mouse e o teclado** enquanto cria algo concreto: **criar um cartão “meu computador” em um editor de texto**.
 
 ## Conceitos
 - Conhecer desktop, janelas, mouse e teclado
@@ -27,7 +27,7 @@ Abra a pasta `missao_01` antes da criança chegar. Separe papel e lápis, se nec
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `explorador digital` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que o explorador digital ajuda a localizar programas, arquivos e pastas no computador. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”

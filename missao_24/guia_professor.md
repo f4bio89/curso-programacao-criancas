@@ -1,7 +1,7 @@
 # Guia do Professor — Missão 24: Grande Estreia
 
 ## Objetivo
-A criança vai **testes, depuração, explicação e apresentação** enquanto cria algo concreto: **terminar e apresentar o projeto**.
+A criança vai aprender sobre **testes, depuração, explicação e apresentação** enquanto cria algo concreto: **terminar e apresentar o projeto**.
 
 ## Conceitos
 - Testes, depuração, explicação e apresentação
@@ -27,7 +27,7 @@ Abra a pasta `missao_24` antes da criança chegar. Separe papel e lápis, se nec
 ## Fala sugerida do professor
 “Computadores são muito obedientes, mas não adivinham. Vamos dar uma instrução pequena, ver o que acontece e usar isso como pista.”
 
-**Como explicar tecnicamente para uma criança:** diga que `projeto final: entrega` é uma ferramenta para descrever uma ideia em passos que a máquina pode seguir. Evite definições longas; a criação vem primeiro.
+**Como explicar tecnicamente para uma criança:** diga que preparar a entrega de um projeto envolve testar, corrigir problemas, explicar as escolhas e apresentar o resultado. Evite definições longas; a criação vem primeiro.
 
 ## Perguntas para fazer
 - “O que você prevê que vai acontecer se mudarmos isto?”
