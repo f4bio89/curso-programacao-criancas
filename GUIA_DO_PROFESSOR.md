@@ -22,7 +22,7 @@ Chame erros de **bugs** e siga: (1) dizer o que esperava, (2) dizer o que aconte
 
 ## Ritmo e encerramento
 
-Uma missão cabe em 35–45 minutos. Pare enquanto ainda existe vontade de continuar. Se faltar tempo, registre em `PROGRESSO.md` a próxima ação minúscula (“trocar a cor do botão”) e volte depois. Não transforme extras em obrigação.
+Uma missão cabe em 35–45 minutos. Pare enquanto ainda existe vontade de continuar. Se faltar tempo, registre em `PROGRESSO.md` a próxima ação minúscula (“trocar a cor do botão”) e volte depois. Não transforme extras em obrigação. **Sono, brincadeira, refeições e tempo livre não são trocados por uma missão inacabada.**
 
 ## Adaptação
 

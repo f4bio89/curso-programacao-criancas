@@ -23,4 +23,7 @@ for py in root.glob('missao_*/materiais/solucao.py'):
     numero = py.parents[1].name.split('_')[1]
     result = subprocess.run([sys.executable, str(py)], input=inputs[numero], text=True, capture_output=True, timeout=5)
     assert result.returncode == 0, f'{py}: {result.stderr}'
-print(f'OK: {len(miss)} missões, Markdown obrigatório e códigos Python verificados.')
+portal = (root / 'docs' / 'portal' / 'index.html').read_text(encoding='utf-8')
+for required in ['role="dialog"', 'aria-modal="true"', 'aria-live="polite"', 'role="img"', 'prefers-reduced-motion', 'function unlocked(n){return n===1', 'function openModal']:
+    assert required in portal, f'Contrato do portal ausente: {required}'
+print(f'OK: {len(miss)} missões, Markdown obrigatório, códigos Python e contrato do portal verificados.')

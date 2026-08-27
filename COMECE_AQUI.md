@@ -19,6 +19,8 @@ Não é uma escola com provas. É uma aventura prática: **pensar → testar →
 - Faça **2 missões por semana** como ritmo recomendado.
 - Reserve **35–45 minutos** por missão.
 - Se houver cansaço ou frustração, pare na próxima ação pequena e volte outro dia.
+- **Sono, brincadeira, refeições e tempo livre vêm antes de terminar uma missão.** Use o portal para registrar um ponto de parada e continue em outro dia.
+- Ao encerrar, comemorem uma descoberta e anotem uma próxima ação pequena; não é preciso “zerar” tudo hoje.
 - Abra antes a **Área do Professor** no portal e escolha **Abrir guia completo**. O guia da missão é carregado sem sair do site; ele também existe como `guia_professor.md` no repositório.
 - Na aula, a criança controla teclado e mouse. O adulto oferece perguntas e pistas, não a resposta pronta.
 
